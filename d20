@@ -1,0 +1,42 @@
+import random
+num = random.randint(1, 20)
+if num = 1:  
+  print("1")
+if num = 2:
+  print("2")
+if num = 3:
+  print("3")
+if num = 4:
+  print("4")
+if num = 5:
+  print("5")
+if num = 6:
+  print("6")
+if num = 7:
+  print("7") 
+if num = 8:
+  print("8")
+if num = 9:
+  print("9")
+if num = 10:
+  print("10")
+if num = 11:
+  print("11")
+if num = 12:
+  print("12")
+if num = 13:
+  print("13")
+if num = 14:
+  print("14")
+if num = 15:
+  print("15")
+if num = 16:
+  print("16")
+if num = 17:
+  print("17")
+if num = 18:
+  print("18")
+if num = 19:
+  print("19")
+if num = 20:
+  print("20")
